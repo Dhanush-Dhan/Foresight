@@ -1,0 +1,6 @@
+{
+  "name": "Project FORESIGHT - Demand & Inventory Intelligence",
+  "description": "AI-powered demand forecasting, stockout & overstock risk scoring, decisioning matrix, and executive presentation platform for NorthBay Living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
